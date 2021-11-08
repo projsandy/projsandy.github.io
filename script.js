@@ -7,7 +7,7 @@ const COMMANDS = {
   skills:
     "Shell Scripting (BASH + BATCH) | DevSecOps | Computer Hardware & Networking |  Security Operation Analysis ",
   education:
-    "MSc. in Degital Forensics & Information Security (Running)<br>Postgraduate-cert in Inforation Assurence<br> BSc. in Inforation Technology",
+    "MSc. in Digital Forensics & Information Security (Running)<br>Postgraduate-cert in Inforation Assurence<br> BSc. in Inforation Technology",
   experience:'<span class="code">Total experience: 2.9 years</span><br>Technical Support Engineer DevSecOps - Full Time - Pagentra Infosec Pvt Ltd (6 months) <br> Technical Writter - community work - M L Dahanukar College  (3 months)<br>Computer Technician - Part Time - Freelancer (2 years)<br>',
   certifications: 
     "DIAT Certified Information Assurence Professional<br>",
